@@ -1,1 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Validation</title>
+</head>
+<body>
+    <center>
+        <div class="container">
+    <h1 id="h1"> S E C E </h1>
+    <hr>
+    <div class="inputs" id="name">
+        <lable value:name>Name :</label>
+        <input type="text">
+    </div>
+    <div class="inputs" id="age">
+        <label value:age>Age :</label>
+        <input type="number">
+    </div>
+    <div class="inputs" id="address">
+        <label value:address>Address :</label>
+        <input type="text">
+    </div>
+    <div class="inputs" id="email">
+        <label value:Email>Email :</label>
+        <input type="email">
+    </div>
+    <div class="inputs" id="phno">
+        <label value:phno>Ph no :</label>
+        <input type="number">
+    </div>
+    </div>
+    </center>
+    </body>
+    </body>
+    </html>
 
+
+
+    <style>
+        h1{
+            color: rgb(108, 181, 199);
+        }
+        .inputs{
+            padding: 20px;
+            border-color: rgb(92, 88, 88);
+            border-style: solid;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            width: 200px;
+            display: flex;
+            flex-direction: column;
+        }
+        .container{
+            border-color:black;
+            border-style: solid;
+            margin:50px;
+        }
+
+    </style>
+
+
+
+    <script>
+        const 
+
+    </script>
+
+</body>
+</html>
